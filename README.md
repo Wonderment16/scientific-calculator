@@ -64,9 +64,9 @@ ScientificCalculator/
 |   |   └── scientific_mode.png
 |   |   └── sidebar_open.png
 |   └── app_icon.png
-├── requirements.txt
 ├── ReadMe.md
-└── main.py                # Entry point (optional wrapper)
+├── main.py                # Entry point (optional wrapper)
+└── requirements.txt                
 ```
 
 ---
