@@ -1,0 +1,12 @@
+# Core numerical & graphing libraries
+numpy>=1.25.0
+matplotlib>=3.8.0
+
+# Optional: for better image/icon support in GUI
+pillow>=10.0.0
+
+# Optional: symbolic math parsing (useful if you ever expand features)
+sympy>=1.12.0
+
+# Optional: for safe expression evaluation (already handled in engine, but can be handy)
+asteval>=0.9.31
